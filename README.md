@@ -4,10 +4,19 @@ Per regolare l’accoppiamento tra l’ingraggio principale e lo stepper è stat
 Per l’inserimento della modifica sono state già disegnate le nuove skirt laterali mentre per la skirt frontale si possono applicare le originali Voron Trident.
 
 ---
+
 # Modification Z Voron 2.4 β
 Modification of the Z-axis movement system for Voron 2.4 250, 300 and 350. Using the components of the original Z-axis reduction system consisting of pulleys/belts, a gear-based reduction system can be realised by adding only 2 elements. This prevents the gantry from moving freely and creating misalignment when the printer is switched off. 
 A screw adjustment was created to adjust the matching between the main gear and the stepper for more accurate calibration.
 The new side skirts have already been designed for the modification, while the original Voron Trident front skirt can be applied.
+
+---
+
+BOM:
+- F5-10M: https://www.amazon.it/gp/product/B07Y5CTGGV/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&th=1
+- 60T 5mm: https://it.aliexpress.com/item/4000975862784.html?spm=a2g0o.order_list.0.0.556f3696lJcvYv&gatewayAdapt=glo2ita
+- 151 5mm: https://it.aliexpress.com/item/4000975862784.html?spm=a2g0o.order_list.0.0.556f3696lJcvYv&gatewayAdapt=glo2ita
+- Rondella Piana 5x8: https://it.aliexpress.com/item/32917948919.html?spm=a2g0o.order_detail.order_detail_item.3.6dcf582fyiLlVY&gatewayAdapt=glo2ita
 
 ---
 
