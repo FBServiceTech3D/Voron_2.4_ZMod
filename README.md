@@ -12,6 +12,15 @@ The new side skirts have already been designed for the modification, while the o
 
 ---
 
+<p align="center">
+  <img src="/Image/Z_Mod_24_A.jpg">
+</p>
+<p align="center">
+  <img src="/Image/Z_Mod_24_B.jpg">
+</p>
+
+---
+
 BOM:
 - F5-10M: https://www.amazon.it/gp/product/B07Y5CTGGV/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&th=1
 - 60T 5mm: https://it.aliexpress.com/item/4000975862784.html?spm=a2g0o.order_list.0.0.556f3696lJcvYv&gatewayAdapt=glo2ita
